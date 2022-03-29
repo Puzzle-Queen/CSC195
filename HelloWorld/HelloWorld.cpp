@@ -20,6 +20,7 @@ int main()
     std::cout << &iVal1;
     std::cout << "\n memory location of shVal2 = " << shVal2;
     std::cout << "\n memory location of iVal3 = " << &iVal3;
+    std::cout << "Git\n";
 
 // Hello, this is a comment
 // Hello, this is a comment that this has definitely been changed a little bit
