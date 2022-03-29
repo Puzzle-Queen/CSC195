@@ -20,9 +20,9 @@ int main()
     std::cout << &iVal1;
     std::cout << "\n memory location of shVal2 = " << shVal2;
     std::cout << "\n memory location of iVal3 = " << &iVal3;
-}
 
 // Hello, this is a comment
+// Hello, this is a comment that this has definitely been changed a little bit
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
